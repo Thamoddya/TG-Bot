@@ -1,1 +1,1 @@
-worker: python3 honey.py
+worker: python3 main.py
